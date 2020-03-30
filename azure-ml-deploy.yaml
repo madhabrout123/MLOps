@@ -1,3 +1,0 @@
-containers:
-- name: deploy
-  image: mlopsbucket.azurecr.io/deploy:v1
